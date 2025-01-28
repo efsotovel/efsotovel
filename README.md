@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efsotovel
 - 👀 I’m interested in film, books, gaming and of course coding
-- 🌱 I’m currently a student in university studying Computer Systems, this semester I'm learning Java and JavaScript
+- 🌱 I’m currently a student in university studying Computer Systems
 - 😄 Pronouns: he/him
 
 <!---
